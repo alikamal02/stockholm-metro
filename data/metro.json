@@ -1,0 +1,10 @@
+{
+    "stations": [
+      { "id": 1, "name": "T-Centralen", "line": "blue", "coordinates": "59.3293,18.0686" },
+      { "id": 2, "name": "Slussen", "line": "red", "coordinates": "59.3199,18.0735" }
+    ],
+    "connections": [
+      { "startStation": 1, "endStation": 2, "line": "red", "travelTime": 5 }
+    ]
+  }
+  
